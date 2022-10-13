@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../module-14/module-14/config"
+		},
+		{
+			"path": "../module-14/module-14/db"
+		},
+		{
+			"path": "../module-14/module-14/models"
+		},
+		{
+			"path": "../module-14/module-14/public"
+		},
+		{
+			"path": "../module-14/module-14/routes"
+		},
+		{
+			"path": "../module-14/module-14/utils"
+		},
+		{
+			"path": "../module-14/module-14/views"
+		}
+	],
+	"settings": {}
+}
